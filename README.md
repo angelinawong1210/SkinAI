@@ -1,4 +1,4 @@
-# SkinAI - FDAA_Team6_XingYun_MehtaNguyenVerma
+# SkinAI - SC1015 - FDAA_Team6_XingYun_MehtaNguyenVerma
 
 ## Introduction
 
