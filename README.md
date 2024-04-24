@@ -48,6 +48,9 @@ Skin Disease Detection - Image classification of skin conditions, aiming to assi
 
 Driven by the shared goal of learning and expanding our knowledge about each machine learning model, we collaborated closely, pooling our skills and perspectives to tackle challenges, explore new techniques, and collectively deepen our understanding of image classification. 
 
+## How to try the model? 
+You can just clone this repo into your personal devices, installing all essential modules and run the script **streamlit run main.py**
+
 ## References
 - Dataset: https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data
 - Deep learning model training: https://www.analyticsvidhya.com/blog/2022/07/building-a-brain-tumor-classifier-using-deep-learning/
