@@ -38,13 +38,13 @@ Early and accurate diagnosis of skin conditions can be challenging due to the wi
 3. Development of machine learning models for image classification tasks
 4. Understanding of the concepts of metrics used for model evaluation 
 5. Collaborating effectively on GitHub and Google Colab with free GPU access
-6. Deploying an trained model using Streamlit 
+6. Deploying a trained model using Streamlit 
 7. Problem-solving and troubleshooting: Learning how to efficiently debug code, address various issues, and optimize the model's performance.
 
 ## Contributions
 1. Nguyen Hoang Minh Ngoc - U2323871H @angelinawong1210
-2. 
-3. 
+2. Mehta Rishika - U2323133H @Oganesson0221
+3. Verma Shireen - U23231013D @s812v
 
 ## References
 - Dataset: https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data
