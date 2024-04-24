@@ -52,7 +52,7 @@ Driven by the shared goal of learning and expanding our knowledge about each mac
 You can just clone this repo into your personal devices, installing all essential modules and run the script **streamlit run main.py**
 
 ## References
-- Dataset: https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data
+- Dataset: https://www.kaggle.com/datasets/shubhamgoel27/dermnet/data ; https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data 
 - Deep learning model training: https://www.analyticsvidhya.com/blog/2022/07/building-a-brain-tumor-classifier-using-deep-learning/
 - Machine learning models: https://www.analyticsvidhya.com/blog/2022/01/image-classification-using-machine-learning/
 - Streamlit model deployment: https://blog.streamlit.io/deep-learning-apps-for-image-processing-made-easy-a-step-by-step-guide/
