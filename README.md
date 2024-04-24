@@ -4,9 +4,12 @@
 
 This is our Mini-Project for Introduction to Data Science and Artificial Intelligence (SC1005). Our dataset was sourced from Kaggle, which contains labeled images of various skin conditions. 
 
-## Problem Definition
+## Practical Motivation
 
-Early and accurate diagnosis of skin conditions can be challenging due to the wide variety of conditions and their similar visual manifestations. Using supervised learning, we aim to create a model that is able to differentiate between 23 different types of skin diseases. 
+Early and accurate diagnosis of skin conditions can be challenging due to the wide variety of conditions and their similar visual manifestations. Using a trained model can enable users to detect these conditions without having to get it checked constantly.
+
+## Problem Definition
+Skin Disease Detection - Image classification of skin conditions, aiming to assist in automated detection based on visual symptoms
 
 ## Objectives
 1. Develop a machine learning model using convolutional neural networks (CNNs), KNN, Random Forest Classifiers, and Naive Bayes to classify skin diseases.
@@ -35,7 +38,7 @@ Early and accurate diagnosis of skin conditions can be challenging due to the wi
 3. Development of various machine learning models for image classification tasks
 4. Understanding of the concepts of metrics used for model evaluation 
 5. Collaborating effectively on GitHub and Google Colab with free GPU access
-6. Deploying an trained model using Streamlit 
+6. Deploying a trained model using Streamlit 
 7. Problem-solving and troubleshooting: Learning how to efficiently debug code, address various issues, and optimize the model's performance.
 
 ## Contributions
