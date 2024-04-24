@@ -4,9 +4,6 @@
 
 This is our Mini-Project for Introduction to Data Science and Artificial Intelligence (SC1005). Our dataset was sourced from Kaggle, which contains labeled images of various skin conditions. 
 
-For a detailed walkthrough, please view the source code in the following order:
-1. 
-
 ## Problem Definition
 
 Early and accurate diagnosis of skin conditions can be challenging due to the wide variety of conditions and their similar visual manifestations. Using supervised learning, we aim to create a model that is able to differentiate between 23 different types of skin diseases. 
@@ -35,7 +32,7 @@ Early and accurate diagnosis of skin conditions can be challenging due to the wi
 
 1. Handling inconsistent datasets for data cleaning and standardization of image size, format, and color channels. Resizing of images for memory efficiency and faster processing
 2. Identifying suitable classes for model training 
-3. Development of machine learning models for image classification tasks
+3. Development of various machine learning models for image classification tasks
 4. Understanding of the concepts of metrics used for model evaluation 
 5. Collaborating effectively on GitHub and Google Colab with free GPU access
 6. Deploying an trained model using Streamlit 
@@ -43,8 +40,8 @@ Early and accurate diagnosis of skin conditions can be challenging due to the wi
 
 ## Contributions
 1. Nguyen Hoang Minh Ngoc - U2323871H @angelinawong1210
-2. 
-3. 
+2. Verma Shireen - U2323013D @s812v
+3. Mehta Rishika - U2323133H @Oganesson0221
 
 ## References
 - Dataset: https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data
