@@ -41,7 +41,7 @@ Skin Disease Detection - Image classification of skin conditions, aiming to assi
 6. Deploying a trained model using Streamlit 
 7. Problem-solving and troubleshooting: Learning how to efficiently debug code, address various issues, and optimize the model's performance.
 
-## Contributions
+## Contributors
 1. Nguyen Hoang Minh Ngoc - U2323871H @angelinawong1210
 2. Verma Shireen - U2323013D @s812v
 3. Mehta Rishika - U2323133H @Oganesson0221
