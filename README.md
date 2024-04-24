@@ -56,6 +56,8 @@ You can just clone this repo into your personal devices, installing all essentia
 - Deep learning model training: https://www.analyticsvidhya.com/blog/2022/07/building-a-brain-tumor-classifier-using-deep-learning/
 - Machine learning models: https://www.analyticsvidhya.com/blog/2022/01/image-classification-using-machine-learning/
 - Streamlit model deployment: https://blog.streamlit.io/deep-learning-apps-for-image-processing-made-easy-a-step-by-step-guide/
+- Our presentation slides: https://www.youtube.com/c/SCSEMarketing/videos
+  
   
   
 
