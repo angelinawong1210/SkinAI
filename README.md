@@ -42,7 +42,7 @@ Early and accurate diagnosis of skin conditions can be challenging due to the wi
 7. Problem-solving and troubleshooting: Learning how to efficiently debug code, address various issues, and optimize the model's performance.
 
 ## Contributions
-1. Nguyen Hoang Minh Ngoc @angelinawong1210
+1. Nguyen Hoang Minh Ngoc - U2323871H @angelinawong1210
 2. 
 3. 
 
