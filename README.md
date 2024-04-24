@@ -46,6 +46,8 @@ Skin Disease Detection - Image classification of skin conditions, aiming to assi
 2. Verma Shireen - U2323013D @s812v
 3. Mehta Rishika - U2323133H @Oganesson0221
 
+Driven by the shared goal of learning and expanding our knowledge about each machine learning model, we collaborated closely, pooling our skills and perspectives to tackle challenges, explore new techniques, and collectively deepen our understanding of image classification. 
+
 ## References
 - Dataset: https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images/data
 - Deep learning model training: https://www.analyticsvidhya.com/blog/2022/07/building-a-brain-tumor-classifier-using-deep-learning/
